@@ -12,3 +12,5 @@ Generative pretrained Transformer, is a decoder only Transformer model. Our trai
 * Convert the data to tensor:  Data is converted into tensor since TensorFlow and PyTorch are some basic data structures used in deep learning frameworks. 
 
 It is essential to ensure that the data is of high quality, diverse, and in sufficient quantity to train the GPT model effectively and avoid overfitting
+
+### 3. Model architecture 
